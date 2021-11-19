@@ -87,7 +87,7 @@ class MakePotCommand extends WP_CLI_Command {
 	/**
 	 * @var bool
 	 */
-	protected $location = true;
+	protected $location = false;
 
 	/**
 	 * @var array
